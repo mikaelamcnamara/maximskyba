@@ -5,15 +5,16 @@ import '../enter/enter.css';
 
 function Enter() {
 	window.onload = function () {
-		window.setTimeout(fadeout, 4900); //5 seconds
+		window.setTimeout(fadeout, 3900); //5 seconds
 	};
 
 	//reset timeout function if the window has already been loaded
 	let navData = window.performance.getEntriesByType('navigation');
 	if (navData.length > 0 && navData[0].loadEventEnd > 0) {
-		window.setTimeout(fadeout, 4900); //5 seconds
+		window.setTimeout(fadeout, 3900); //5 seconds
 	} else {
 		console.log('Document is not loaded');
+		window.setTimeout(fadeout, 3900); //5 seconds
 	}
 
 	function fadeout() {
