@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Welcome/static/css/main.6d28f85e.chunk.css",
-    "main.js": "/Welcome/static/js/main.fa74fb14.chunk.js",
-    "main.js.map": "/Welcome/static/js/main.fa74fb14.chunk.js.map",
-    "runtime-main.js": "/Welcome/static/js/runtime-main.5d884557.js",
-    "runtime-main.js.map": "/Welcome/static/js/runtime-main.5d884557.js.map",
-    "static/js/2.1c0f52ab.chunk.js": "/Welcome/static/js/2.1c0f52ab.chunk.js",
-    "static/js/2.1c0f52ab.chunk.js.map": "/Welcome/static/js/2.1c0f52ab.chunk.js.map",
-    "index.html": "/Welcome/index.html",
-    "static/css/main.6d28f85e.chunk.css.map": "/Welcome/static/css/main.6d28f85e.chunk.css.map",
-    "static/js/2.1c0f52ab.chunk.js.LICENSE.txt": "/Welcome/static/js/2.1c0f52ab.chunk.js.LICENSE.txt"
+    "main.css": "/maximskyba/static/css/main.6d28f85e.chunk.css",
+    "main.js": "/maximskyba/static/js/main.fa74fb14.chunk.js",
+    "main.js.map": "/maximskyba/static/js/main.fa74fb14.chunk.js.map",
+    "runtime-main.js": "/maximskyba/static/js/runtime-main.7cbd6867.js",
+    "runtime-main.js.map": "/maximskyba/static/js/runtime-main.7cbd6867.js.map",
+    "static/js/2.1c0f52ab.chunk.js": "/maximskyba/static/js/2.1c0f52ab.chunk.js",
+    "static/js/2.1c0f52ab.chunk.js.map": "/maximskyba/static/js/2.1c0f52ab.chunk.js.map",
+    "index.html": "/maximskyba/index.html",
+    "static/css/main.6d28f85e.chunk.css.map": "/maximskyba/static/css/main.6d28f85e.chunk.css.map",
+    "static/js/2.1c0f52ab.chunk.js.LICENSE.txt": "/maximskyba/static/js/2.1c0f52ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d884557.js",
+    "static/js/runtime-main.7cbd6867.js",
     "static/js/2.1c0f52ab.chunk.js",
     "static/css/main.6d28f85e.chunk.css",
     "static/js/main.fa74fb14.chunk.js"
